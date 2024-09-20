@@ -1,0 +1,7 @@
+id=disable_hw_overlay_and_force_msaa
+name=Disable HW Overlay + Force MSAA
+version=1.0.0
+versionCode=1
+author=IRedDragonICY
+description=Automatically enable Disable HW Overlay and Force MSAA in developer options
+minMagisk=17000
